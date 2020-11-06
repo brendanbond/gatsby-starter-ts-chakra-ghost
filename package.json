@@ -55,9 +55,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brendanb/gatsby-starter-ts-chakra-ghost"
+    "url": "https://github.com/brendanbond/gatsby-starter-ts-chakra-ghost"
   },
   "bugs": {
-    "url": "https://github.com/brendanb/gatsby-starter-ts-chakra-ghost/issues"
+    "url": "https://github.com/brendanbond/gatsby-starter-ts-chakra-ghost/issues"
   }
 }
